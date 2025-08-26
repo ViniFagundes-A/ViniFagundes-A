@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Vinicius Fagundes
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)**  
-💻 Técnico de Suporte Jr na **Positivo S+**  
 🚀 Desenvolvendo meu TCC: *Sistema de gestão de chamados com IA*  
 📚 Interessado em **Suporte em TI, Banco de Dados e Inteligência Artificial**  
 
