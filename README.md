@@ -6,9 +6,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniFagundes-A&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFagundes-A&layout=compact&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117)
+
 
 ---
 
